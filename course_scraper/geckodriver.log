@@ -1,0 +1,1736 @@
+1553029424694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.sl5or6NWFsTk"
+1553029445354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.Wp32BzBgInSi"
+1553029445905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029445906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029445906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029447434	Marionette	INFO	Listening on port 63871
+1553029447482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553029462861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.R90Cc9W9Cghq"
+1553029463378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029463378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029463378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029464683	Marionette	INFO	Listening on port 63919
+1553029464980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 11676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9908, Chrome_ChildThread]1553029468521	Marionette	INFO	Stopped listening on port 63919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15172, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029788200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.J5C9QEAdddzA"
+1553029788710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029788710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029788710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029790006	Marionette	INFO	Listening on port 64052
+1553029790318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 11332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1196[Child 16880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16880, Ch[Parent 11332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553029794425	Marionette	INFO	Stopped listening on port 64052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6448, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029808255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.Rd4ZvomOTg0s"
+1553029808753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029808753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029808753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029810052	Marionette	INFO	Listening on port 64102
+1553029810373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12464, Chrome_ChildThrea[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9144, Chrome_C1553029857567	Marionette	INFO	Stopped listening on port 64102
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553029858187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.akbPX7rqAb65"
+1553029858691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029858691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029858691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029860057	Marionette	INFO	Listening on port 64206
+1553029860305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553029866106	Marionette	INFO	Stopped listening on port 64206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2028, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029886105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.CMUMqwrQYgut"
+1553029886605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029886606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029886606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029887842	Marionette	INFO	Listening on port 64256
+1553029888227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 13660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 181281553029892432	Marionette	INFO	Stopped listening on port 64256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18192, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029901049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.zHyau7C2YcrD"
+1553029901548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029901548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029901548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029902860	Marionette	INFO	Listening on port 55494
+1553029903256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 1988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1981553029906860	Marionette	INFO	Stopped listening on port 55494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10756, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029939058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.XIPmWr8nU4F0"
+1553029939560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029939561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029939561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029940804	Marionette	INFO	Listening on port 55544
+1553029941175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 2676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553029949601	Marionette	INFO	Stopped listening on port 55544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6868, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553029967296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.TYjErGi66mjt"
+1553029967801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553029967801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553029967801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553029969099	Marionette	INFO	Listening on port 55592
+1553029969413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 15388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553029972474	Marionette	INFO	Stopped listening on port 55592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16228, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553030019683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.etOCnplqL8Mv"
+1553030020189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553030020189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553030020189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553030021427	Marionette	INFO	Listening on port 55648
+1553030021798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 15136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553030025585	Marionette	INFO	Stopped listening on port 55648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553030066888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.dbC3pY1ETWEK"
+1553030067399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553030067400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553030067400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553030068686	Marionette	INFO	Listening on port 49569
+1553030069010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 2960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553030114984	Marionette	INFO	Stopped listening on port 49569
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 4828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Child 16656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bld 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553030121344	Marionette	INFO	Stopped listening on port 49620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18312, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553030229698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.ltieNYB4fWAa"
+1553030230202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553030230202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553030230202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553030231487	Marionette	INFO	Listening on port 60265
+1553030231821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 16584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16584, Chrome_C[Parent 12412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553030239081	Marionette	INFO	Stopped listening on port 60265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11620, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553030947036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.BaqUSLuQOpE4"
+1553030947537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553030947537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553030947537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553030948744	Marionette	INFO	Listening on port 58297
+1553030949155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553030971613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.xQtLf8cW01CY"
+1553030972118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553030972118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553030972119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553030973338	Marionette	INFO	Listening on port 65002
+1553030973733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Chil[Parent 1944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553031316687	Marionette	INFO	Stopped listening on port 65002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12628, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031028952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031030257	Marionette	INFO	Listening on port 65050
+1553031030576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 1192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553031106109	Marionette	INFO	Stopped listening on port 65050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9259	Marionette	INFO	Listening on port 65102
+1553031059529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 108681553031063865	Marionette	INFO	Stopped listening on port 65102
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 15056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031087151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.kU6ZMMB1B7Ha"
+1553031087647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031087647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031087648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031088939	Marionette	INFO	Listening on port 52188
+1553031089268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553031106558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.kMf8LoyxgSLn"
+1553031107072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031107072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031107072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031108377	Marionette	INFO	Listening on port 52236
+1553031108678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 19388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553031113783	Marionette	INFO	Stopped listening on port 52236
+[GPU 6564, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031287660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.WA6D2VXTDqSB"
+1553031288163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031288163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031288163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031289475	Marionette	INFO	Listening on port 52287
+1553031289779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 18536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18481553031308092	Marionette	INFO	Stopped listening on port 52287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031307554	Marionette	INFO	Listening on port 52338
+1553031307821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 1941553031314349	Marionette	INFO	Stopped listening on port 52338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031426055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.3WCz8TgFlT1D"
+1553031426650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031426650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031426650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031427892	Marionette	INFO	Listening on port 59015
+1553031428170	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 18564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16328, Chrome_ChildThread] WARN[Parent 18564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553036581798	Marionette	INFO	Stopped listening on port 59015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16248, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553031469341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.gdMULZb7UH8O"
+1553031469848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031469848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031469848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031471061	Marionette	INFO	Listening on port 59098
+1553031471463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 18256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18256, C[Child 18468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18468, Chrome_ChildThread] WARNING: 1553031486521	Marionette	INFO	Stopped listening on port 59098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18776, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031491669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.DgN276iOsiQ0"
+1553031492172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031492172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031492172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031493516	Marionette	INFO	Listening on port 59145
+1553031493786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 18704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553036582434	Marionette	INFO	Stopped listening on port 59145
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2: { opened at line 302, column 45
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:302:11\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Could not get the list of font families" "Protocol error (unknownError): node is null"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18[Parent 12744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9200,1553036583027	Marionette	INFO	Stopped listening on port 59198
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14968, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r*
+1553031672412	Marionette	INFO	Listening on port 57932
+1553031672786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 17348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 20204, Chrome_Chil[dThread] WARNING: pipe errCor: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+hild 20172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Child 20204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 17348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553031684639	Marionette	INFO	Stopped listening on port 57932
+[GPU 19356, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031704338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.BEO6H5aFvvwU"
+1553031704848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031704848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031704848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031706146	Marionette	INFO	Listening on port 57986
+1553031706456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 17600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17600, Chrome_ChildThrea[Parent 20444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 151553031740771	Marionette	INFO	Stopped listening on port 57986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14132, Chrome_ChildThread] WARNING: pipe error: 109: file 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553031796412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.apOhrYQhPRv1"
+1553031796916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031796916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031796916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031798226	Marionette	INFO	Listening on port 49931
+1553031798527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 18948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: fid 20180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 201[Parent 18948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553031895263	Marionette	INFO	Stopped listening on port 49931
+
+###!!! [Child][RunMessage] Error: CJavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553031912892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.GPtWRRLqY4im"
+1553031913408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553031913409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553031913409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553031914659	Marionette	INFO	Listening on port 50032
+1553031915009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 19084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553036583461	Marionette	INFO	Stopped listening on port 50032
+[GPU 19596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion permission: resource://pdf.js/
+1553032052981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553032054243	Marionette	INFO	Listening on port 55768
+1553032054589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553032105173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.yqxOUTDDhfUc"
+1553032105730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553032105730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553032105730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553032107043	Marionette	INFO	Listening on port 55841
+1553032107295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18316, Chrome_ChildThread] WARNING: pipe e[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553032117946	Marionette	INFO	Stopped listening on port 55841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 236, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052434249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.wCtEGdkVWvnl"
+1553052435051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052435051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052435051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052436771	Marionette	INFO	Listening on port 54334
+1553052437029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553052446286	Marionette	INFO	Stopped listening on port 54334
+[Parent 13236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13976, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10948, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052805144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.h2s95t0C0TBd"
+1553052805637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052805637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052805637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052806864	Marionette	INFO	Listening on port 54424
+1553052807261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553052818507	Marionette	INFO	Stopped listening on port 54424
+[Parent 17120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12616[Parent 17120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20320, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052842781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.t7abTlTG9FWi"
+1553052843286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052843286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052843286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052844508	Marionette	INFO	Listening on port 62364
+1553052844901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 20124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13732, 1553052852363	Marionette	INFO	Stopped listening on port 62364
+[GPU 16528, Chrome_ChildT
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052863262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.1oS7IQOhVeNL"
+1553052863763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052863763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052863764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052865016	Marionette	INFO	Listening on port 62418
+1553052865381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 7076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553052918306	Marionette	INFO	Stopped listening on port 62418
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052903477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052904811	Marionette	INFO	Listening on port 61985
+1553052905088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553052915219	Marionette	INFO	Stopped listening on port 61985
+[Parent 17692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17884, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15816, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052942589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.fXwr8dUV54Te"
+1553052943082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052943082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052943082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052944372	Marionette	INFO	Listening on port 62047
+1553052944703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553052959337	Marionette	INFO	Stopped listening on port 62047
+[Parent 12944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19932,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20572, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553052975945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.T5OOuVApbFJy"
+1553052976453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553052976453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553052976453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553052977702	Marionette	INFO	Listening on port 62107
+1553052978072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553052988952	Marionette	INFO	Stopped listening on port 62107
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18500, Chro[Child 21248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21248, Chrome_ChildThread] WARNING: pipe error: 109: file 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18980, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053087090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.B6YFOFBlYTwA"
+1553053087591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053087591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053087591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053088896	Marionette	INFO	Listening on port 65009
+1553053089205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053102506	Marionette	INFO	Stopped listening on port 65009
+[Parent 20996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 20996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21368, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053118529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.mL6iVhOsrHZA"
+1553053119030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053119030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053119030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053120260	Marionette	INFO	Listening on port 65073
+1553053120649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053131896	Marionette	INFO	Stopped listening on port 65073
+[Parent 16332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7904, Chrome_ChildT[hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com[Parent 16332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20232,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9876, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053280402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.xXmCKx5KAWTt"
+1553053280913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053280914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053280914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053282138	Marionette	INFO	Listening on port 57581
+1553053282517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053294519	Marionette	INFO	Stopped listening on port 57581
+[Child 7824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10920, Chrome[Child 7116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7116, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10580, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053412700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.do5hNjKUB7M8"
+1553053413225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053413225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053413225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053414507	Marionette	INFO	Listening on port 57677
+1553053414814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053423201	Marionette	INFO	Stopped listening on port 57677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15852, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053562727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.DGnACgwHTm55"
+1553053563234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053563234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053563234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053564495	Marionette	INFO	Listening on port 57741
+1553053564850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053574800	Marionette	INFO	Stopped listening on port 57741
+[Parent 15072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17564, Chrome_Chi[Child 20388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 15072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18776, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5052, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053637003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.iUOYhT1YT6Qh"
+1553053637525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053637525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053637525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053639115	Marionette	INFO	Listening on port 57166
+1553053639155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053649268	Marionette	INFO	Stopped listening on port 57166
+[Parent 17328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20228, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053664076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.6to1iE7QQnMC"
+1553053664583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053664583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053664584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053666006	Marionette	INFO	Listening on port 57220
+1553053666190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053675141	Marionette	INFO	Stopped listening on port 57220
+[Child 21324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 16892, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053749095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.LVp775FZ3mDG"
+1553053749618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053749619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053749619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053750881	Marionette	INFO	Listening on port 54419
+1553053751216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053760782	Marionette	INFO	Stopped listening on port 54419
+[Parent 2676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2133
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11208, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053837847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.7JrNkHQ3KXp5"
+1553053838420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053838420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053838420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053839714	Marionette	INFO	Listening on port 54482
+1553053839966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053851478	Marionette	INFO	Stopped listening on port 54482
+[Parent 19560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8656, Chrome_[GPU 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053875777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.gktZaYGJ8j7l"
+1553053876278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053876278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053876278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053877611	Marionette	INFO	Listening on port 51522
+1553053877893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053887991	Marionette	INFO	Stopped listening on port 51522
+[Child 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[Parent 15568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19464, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053908599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.VV12QppNJegn"
+1553053909107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053909107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053909107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053910387	Marionette	INFO	Listening on port 51580
+1553053910720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053916170	Marionette	INFO	Stopped listening on port 51580
+[Parent 21212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8436, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553053934656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.Vu8YB50JkIvq"
+1553053935154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553053935154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553053935154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553053936373	Marionette	INFO	Listening on port 51633
+1553053948874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553053954583	Marionette	INFO	Stopped listening on port 51633
+[Child 536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 536, [Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3704, Chrome_ChildT[Child 13520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11292, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054118506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.wEZ7nkj5pOR0"
+1553054119015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054119015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054119015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054120292	Marionette	INFO	Listening on port 63529
+1553054120625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054129102	Marionette	INFO	Stopped listening on port 63529
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19540, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054222155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.Pr5S8nNTVt2k"
+1553054222653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054222654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054222654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054223885	Marionette	INFO	Listening on port 63587
+1553054224272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054230645	Marionette	INFO	Stopped listening on port 63587
+[Parent 17972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20140, Chrome_ChildT[Parent 17972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5276, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15648, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054327726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.r0pGYOrvzseK"
+1553054328235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054328235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054328235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054329499	Marionette	INFO	Listening on port 63737
+1553054329846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054338081	Marionette	INFO	Stopped listening on port 63737
+[Parent 6656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 6656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 18440, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054474469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.8buvmb7wNLgR"
+1553054475218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054475219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054475219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054476692	Marionette	INFO	Listening on port 63817
+1553054476716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054484432	Marionette	INFO	Stopped listening on port 63817
+[Child 18668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Child 18668, Chrome_Child 1840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1840, Chrome[Parent 2544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17296, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3624, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054620960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.OYf6sMmzbyF5"
+1553054621468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054621468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054621468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054625368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.a9olDkBhpIZi"
+1553054625858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054625858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054625858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054627135	Marionette	INFO	Listening on port 63899
+1553054627485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054634254	Marionette	INFO	Stopped listening on port 63899
+[Parent 11324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4924, Chrome_ChildThread] WARNIN[Parent 11324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2196, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054713489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.GPmqu403Zo9q"
+1553054713996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054713997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054713997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054715224	Marionette	INFO	Listening on port 61538
+1553054715606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054721244	Marionette	INFO	Stopped listening on port 61538
+[Parent 20644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553054758049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.8y5q60Lrkc2d"
+1553054758556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553054758556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553054758556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553054759887	Marionette	INFO	Listening on port 61590
+1553054760165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553054766909	Marionette	INFO	Stopped listening on port 61590
+[Parent 8304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11976, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056208735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.TQUjvYJz2q0y"
+1553056209228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056209228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056209228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056210413	Marionette	INFO	Listening on port 61801
+1553056210850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056217477	Marionette	INFO	Stopped listening on port 61801
+[Parent 11800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7292, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056268660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.7T45X6AbJ2ha"
+1553056269155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056269156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056269156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056270339	Marionette	INFO	Listening on port 58337
+1553056270790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056275450	Marionette	INFO	Stopped listening on port 58337
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 560, Ch[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10564, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056332096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.vTZxU5rfFT1A"
+1553056332586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056332587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056332587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056333758	Marionette	INFO	Listening on port 58386
+1553056334214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056339437	Marionette	INFO	Stopped listening on port 58386
+[Parent 18592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19664, Chro[Parent 18592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19112, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056418410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.s20XtLYxJElC"
+1553056418907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056418907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056418908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056420135	Marionette	INFO	Listening on port 58438
+1553056420525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056425348	Marionette	INFO	Stopped listening on port 58438
+[Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18324, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056473865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.bwYoOIXn4QKm"
+1553056474365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056474365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056474365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056475621	Marionette	INFO	Listening on port 58491
+1553056475980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056493020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.sMjGMgETYG3a"
+1553056493512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056493512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056493513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056494708	Marionette	INFO	Listening on port 58540
+1553056495139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056501087	Marionette	INFO	Stopped listening on port 58540
+[Parent 18484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4112, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056885291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.4KHarDtggjxC"
+1553056885818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056885818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056885818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056887058	Marionette	INFO	Listening on port 60750
+1553056887408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056892561	Marionette	INFO	Stopped listening on port 60750
+[Parent 10120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17616, Chrome_ChildThread] WARNING: p
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7532, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553056903026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.Sf5r61ZYYqiL"
+1553056903512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553056903512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553056903512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553056904754	Marionette	INFO	Listening on port 60803
+1553056905146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553056910799	Marionette	INFO	Stopped listening on port 60803
+[Child 18784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Parent 5752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19484, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553057068537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.vT5laWcsN9jj"
+1553057069038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553057069038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553057069038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553057070225	Marionette	INFO	Listening on port 60895
+1553057070655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553057077196	Marionette	INFO	Stopped listening on port 60895
+[Parent 18764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20484, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11096, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553057201090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.d67vxSBN3vWk"
+1553057201591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553057201591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553057201591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553057202842	Marionette	INFO	Listening on port 60977
+1553057203213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553057209585	Marionette	INFO	Stopped listening on port 60977
+[Parent 20116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553057224107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.APhu6hQovxJ8"
+1553057224605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553057224605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553057224605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553057225821	Marionette	INFO	Listening on port 51828
+1553057226224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553057231533	Marionette	INFO	Stopped listening on port 51828
+[Parent 19164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 21072, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553057655863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.aBq2GNVuLAKp"
+1553057656365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553057656366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553057656366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553057657556	Marionette	INFO	Listening on port 51882
+1553057657982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553057663503	Marionette	INFO	Stopped listening on port 51882
+[Parent 21184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20504, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553059371580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.YsqCuivjUXqB"
+1553059372111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553059372111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553059372112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553059373398	Marionette	INFO	Listening on port 52075
+1553059373704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553059387328	Marionette	INFO	Stopped listening on port 52075
+[Child 14416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14416
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19264, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553059471175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.AgISTUsUb591"
+1553059471673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553059471673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553059471673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553059473048	Marionette	INFO	Listening on port 58924
+1553059473291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553059484244	Marionette	INFO	Stopped listening on port 58924
+[Parent 9084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17972, Chrome_ChildThread] WARNING: pipe er
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553059528451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.9KwkphkFriya"
+1553059528958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553059528958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553059528958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553059530192	Marionette	INFO	Listening on port 58981
+1553059530568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Child 18624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 7400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20144, Chrome_ChildTh1553059533603	Marionette	INFO	Stopped listening on port 58981
+[GPU 5256, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553059556974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.ZRLPfyaGCeSI"
+1553059557482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553059557482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553059557482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553059558792	Marionette	INFO	Listening on port 59032
+1553059559090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553059568379	Marionette	INFO	Stopped listening on port 59032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2108, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553060202390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.4v6l0flIkx5o"
+1553060202881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553060202881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553060202881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553060204119	Marionette	INFO	Listening on port 59188
+1553060204506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553060213880	Marionette	INFO	Stopped listening on port 59188
+[Parent 21212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18692, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11556, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553060712855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.CFNsCYCkbXEv"
+1553060713347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553060713347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553060713347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553060714585	Marionette	INFO	Listening on port 60488
+1553060714971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553060727421	Marionette	INFO	Stopped listening on port 60488
+[Parent 16968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20200, Chrome_ChildThread] WARNING: pipe error: 109: file z
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061204137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.fv2gmFQM7HnJ"
+1553061204636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061204637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061204637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061205906	Marionette	INFO	Listening on port 60648
+1553061206251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061220161	Marionette	INFO	Stopped listening on port 60648
+[Parent 19040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17676, Chrome_ChildThread] WARNING: pipe error: 109: file z
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061238433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.TsMycdtu47M0"
+1553061238942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061238942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061238942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061240216	Marionette	INFO	Listening on port 60343
+1553061240553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061253610	Marionette	INFO	Stopped listening on port 60343
+[Child 20624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20624, Chr[Parent 17076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10216, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6592, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061273455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.g0fR60ofu7Ye"
+1553061273941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061273941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061273941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061275175	Marionette	INFO	Listening on port 60397
+1553061275571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061288212	Marionette	INFO	Stopped listening on port 60397
+[Parent 16692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18620, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061317274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.l5Q9vHMC99BC"
+1553061317772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061317772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061317773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061319008	Marionette	INFO	Listening on port 51934
+1553061319392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061340951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.9bzeN6i1ofPQ"
+1553061341487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061341487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061341487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061342806	Marionette	INFO	Listening on port 51994
+1553061343070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061351147	Marionette	INFO	Stopped listening on port 51994
+[Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18564, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20000, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061411868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.vTkOv98qflLM"
+1553061412367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061412367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061412367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061413567	Marionette	INFO	Listening on port 52048
+1553061413987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061425326	Marionette	INFO	Stopped listening on port 52048
+[Child 6512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14164, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553061457677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.syCRgzxqVJtl"
+1553061458171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553061458171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553061458171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553061459453	Marionette	INFO	Listening on port 52102
+1553061459793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553061468053	Marionette	INFO	Stopped listening on port 52102
+[Child 5052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5052, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19040, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553062057630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.BoNBksSx3TaL"
+1553062058126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553062058126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553062058126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553062059418	Marionette	INFO	Listening on port 52217
+1553062059748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553062497998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.t5g8k7Qvxyeh"
+1553062498491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553062498492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553062498492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553062499672	Marionette	INFO	Listening on port 50598
+1553062500111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553062522792	Marionette	INFO	Stopped listening on port 50598
+[Parent 18800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6152, Chrome_ChildThread] WARNING: pipe e[Parent 18800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15288, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553064840563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.c9a4d3XLQ9Qu"
+1553064841119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553064841119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553064841119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553064842461	Marionette	INFO	Listening on port 50820
+1553064842690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+[Parent 17660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15488, C[Parent 17660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/1553064860329	Marionette	INFO	Stopped listening on port 50820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18448, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553064897905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.nLFBPfnmNPJ4"
+1553064898435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553064898435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553064898435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553064899722	Marionette	INFO	Listening on port 50892
+1553064900028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553064915859	Marionette	INFO	Stopped listening on port 50892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20904, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553064935243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.PgHnvhLIo2zE"
+1553064935734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553064935735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553064935735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553064937040	Marionette	INFO	Listening on port 49853
+1553064937359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553064948180	Marionette	INFO	Stopped listening on port 49853
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17620, Chrome_ChildThread] WARNING: pipe error: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553065061569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.1w8ZciZk0AwY"
+1553065062104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553065062104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553065062104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553065063479	Marionette	INFO	Listening on port 49918
+1553065063692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553065073419	Marionette	INFO	Stopped listening on port 49918
+[Parent 19864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6336,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18060, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553188433553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.hpyzNkOT9UnZ"
+1553188434287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553188434287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553188434287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553188435971	Marionette	INFO	Listening on port 57479
+1553188436286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1553188445635	Marionette	INFO	Stopped listening on port 57479
+[Child 19452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Parent 17912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18400, Chrome_ChildThread] WARNING: p
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1554670050989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.wYcuWGUlJVvD"
+1554670051506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554670051506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554670051506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554670052632	Marionette	INFO	Listening on port 56379
+1554670053100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1554670062082	Marionette	INFO	Stopped listening on port 56379
+[Parent 26176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 26176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23664, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1554670261250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Momo\\AppData\\Local\\Temp\\rust_mozprofile.LMksZmLADYjP"
+1554670261784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554670261785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554670261785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554670262925	Marionette	INFO	Listening on port 56462
+1554670263363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 298: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 296: { opened at line 296, column 45
+JavaScript error: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 304: SyntaxError: missing } after property list
+JavaScript note: https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm, line 302: { opened at line 302, column 45
+1554670270577	Marionette	INFO	Stopped listening on port 56462
+[Child 19736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19736, [Parent 24076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 14416, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
