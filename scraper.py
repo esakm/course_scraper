@@ -19,7 +19,8 @@ ADD_COURSE_QUERY = ("INSERT INTO courses(course_code, name, faculty, department)
 ADD_COURSE_OFFERING_QUERY = ("INSERT INTO course_offerings(course, credits, semester) VALUES (%s, %s, %s) ON DUPLICATE KEY UPDATE "
                                "course=course")
 
-ALLOWED_SEMESTERS = ['S1', 'S2', 'SU', 'F', 'W', 'Y']
+courses_offered = {}
+courses_by_semester = {}
 
 driver = webdriver.Firefox()
 driver.implicitly_wait(5)
@@ -42,7 +43,7 @@ for semester in semesters['targets']:
 
     driver.find_element_by_xpath("//input[@type='submit']").click()
     search_results[semester['semesterName']] = driver.page_source
-
+    courses_by_semester.setdefault(semester['semesterName'], [])
     # To get around caching issues where clicking back returns a document expired page,
     # we just need to click back one more time (the loop is for safe measure)
     retries = 0
@@ -58,11 +59,6 @@ for semester in semesters['targets']:
             retries += 1
 driver.close()
 
-#
-#
-courses_offered = {}
-courses_by_semester = {}
-map(lambda x: courses_by_semester.setdefault(x, []), ALLOWED_SEMESTERS)
 
 for semester, page in search_results.items():
     bs = BeautifulSoup(page, "html.parser")
