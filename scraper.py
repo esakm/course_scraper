@@ -43,10 +43,10 @@ for semester in semesters['targets']:
 
     # To get around caching issues where clicking back returns a document expired page,
     # we just need to click back one more time (the loop is for safe measure)
+    retries = 0
     while True:
-        retries = 0
         try:
-            if retries < 100:
+            if retries < 10:
                 driver.back()
                 break
             else:
@@ -73,7 +73,7 @@ for semester, page in search_results.items():
     # grab names + codes, list of tuples (e.g. (ADMS 1000, Introduction to business))
     courses = list(map(lambda x: (x[0].text, x[1].text), map(lambda x: x.findAll('td')[:2], courses)))
     for course in courses:
-        name = ' '.join(course[1].rsplit())
+        name = ' '.join(course[1].rsplit()) # Some names have formatting issues (leading/trailing whitespace), this will get rid of that
         course_code_and_credits = course[0].rsplit()
         course_credits = float(course_code_and_credits[2])
         course_code = ' '.join(course_code_and_credits[:2])
