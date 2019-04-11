@@ -12,12 +12,14 @@ cnx = mysql.connector.connect(user='root', password='TESTPASSWORD',
                               database='test_schema')
 
 cur = cnx.cursor()
-add_courses_query = ("INSERT INTO courses(course_code, name, faculty, department) VALUES (%s, %s, %s, %s) ON DUPLICATE KEY UPDATE "
+ADD_COURSE_QUERY = ("INSERT INTO courses(course_code, name, faculty, department) VALUES (%s, %s, %s, %s) ON DUPLICATE KEY UPDATE "
                      "course_code=course_code")
 
 
-add_semester_listings_query = ("INSERT INTO course_offerings(course, credits, semester) VALUES (%s, %s, %s) ON DUPLICATE KEY UPDATE "
+ADD_COURSE_OFFERING_QUERY = ("INSERT INTO course_offerings(course, credits, semester) VALUES (%s, %s, %s) ON DUPLICATE KEY UPDATE "
                                "course=course")
+
+ALLOWED_SEMESTERS = ['S1', 'S2', 'SU', 'F', 'W', 'Y']
 
 driver = webdriver.Firefox()
 driver.implicitly_wait(5)
@@ -59,13 +61,8 @@ driver.close()
 #
 #
 courses_offered = {}
-courses_by_semester = dict()
-courses_by_semester.setdefault('S1', [])
-courses_by_semester.setdefault('S2', [])
-courses_by_semester.setdefault('SU', [])
-courses_by_semester.setdefault('Y', [])
-courses_by_semester.setdefault('W', [])
-courses_by_semester.setdefault('F', [])
+courses_by_semester = {}
+map(lambda x: courses_by_semester.setdefault(x, []), ALLOWED_SEMESTERS)
 
 for semester, page in search_results.items():
     bs = BeautifulSoup(page, "html.parser")
@@ -93,11 +90,11 @@ def safe_guard():
         sys.exit(0)
     elif safe_guard_input.lower() == "y":
         for course_offered in courses_offered.values():
-            cur.execute(add_courses_query, (course_offered[0], course_offered[1], course_offered[2], course_offered[3]))
+            cur.execute(ADD_COURSE_QUERY, (course_offered[0], course_offered[1], course_offered[2], course_offered[3]))
         for semester, courses in courses_by_semester.items():
             if len(courses) >= 1:
                 for course in courses:
-                    cur.execute(add_semester_listings_query, (course[0], course[1], semester))
+                    cur.execute(ADD_COURSE_OFFERING_QUERY, (course[0], course[1], semester))
 
         cnx.commit()
         cur.close()
