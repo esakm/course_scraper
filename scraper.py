@@ -46,17 +46,16 @@ for semester in semesters['targets']:
     courses_by_semester.setdefault(semester['semesterName'], [])
     # To get around caching issues where clicking back returns a document expired page,
     # we just need to click back one more time (the loop is for safe measure)
-    retries = 0
-    while True:
+    for i in range(11):
         try:
-            if retries < 10:
                 driver.back()
                 break
-            else:
+        except Exception:
+            if i == 10:
                 driver.close()
                 sys.exit(14)
-        except Exception:
-            retries += 1
+            else:
+                continue
 driver.close()
 
 
