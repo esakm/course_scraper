@@ -131,7 +131,7 @@ try:
             course_desc = schedule_bs.findAll("p")[3].text
 
             # We're about to grab the schedule, set the redundancy check
-            redundant_check.setdefault(course_code + str(course_credits) + name, list())
+            redundant_check.setdefault(course_code + str(course_credits) + name, True)
 
             # Get all sections
             course_sections = tables[7].find('tbody').findAll('tr', recursive=False)
