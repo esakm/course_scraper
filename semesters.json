@@ -2,39 +2,21 @@
   "targets": [
     {
       "sessionPopUp": 0,
-      "sessionName": "Fall/Winter 2018/2019",
-      "semesterPopUp": 14,
+      "sessionName": "Fall/Winter 2019/2020",
+      "semesterPopUp": 13,
       "semesterName": "F"
     },
     {
       "sessionPopUp": 0,
-      "sessionName": "Fall/Winter 2018/2019",
-      "semesterPopUp": 28,
+      "sessionName": "Fall/Winter 2019/2020",
+      "semesterPopUp": 25,
       "semesterName": "W"
     },
     {
       "sessionPopUp": 0,
-      "sessionName": "Fall/Winter 2018/2019",
-      "semesterPopUp": 34,
+      "sessionName": "Fall/Winter 2019/2020",
+      "semesterPopUp": 31,
       "semesterName": "Y"
-    },
-    {
-      "sessionPopUp": 1,
-      "sessionName": "SUMMER 2019",
-      "semesterPopUp": 27,
-      "semesterName": "S1"
-    },
-    {
-      "sessionPopUp": 1,
-      "sessionName": "SUMMER 2019",
-      "semesterPopUp": 28,
-      "semesterName": "S2"
-    },
-    {
-      "sessionPopUp": 1,
-      "sessionName": "SUMMER 2019",
-      "semesterPopUp": 32,
-      "semesterName": "SU"
     }
   ]
 }
